@@ -18,10 +18,6 @@ This dashboard helps visualize financial trends and support data-driven decision
 ![Screenshot 3](Screenshot%202025-09-21%20225449.png)  
 ![Screenshot 4](Screenshot%202025-09-21%20225504.png)  
 
-## Files  
-- **Exploring Financial Trends (2012–2020) using Power BI.pbix** → Power BI project file  
-- **Screenshots** → Dashboard previews  
-
 ## Tools Used  
 - Power BI  
 - Microsoft Excel (for data preprocessing)  
