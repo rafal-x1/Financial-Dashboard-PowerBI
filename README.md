@@ -1,27 +1,23 @@
-# Financial Dashboard (2012–2020) using Power BI  
+# Financial Dashboard (2012–2020) using Power BI
 
-## Overview  
-An interactive Power BI dashboard for analyzing financial data of companies (2012–2020).  
+## Overview
+An interactive Power BI dashboard for analyzing financial data of companies (2012–2020).
 
-## Key Insights  
+## Key Insights
 - Total Assets  
 - Long-Term Debt  
 - Inventory  
 - Other Current Assets  
 
-## Objectives  
-This dashboard helps visualize financial trends and support data-driven decisions.  
+## Objectives
+This dashboard helps visualize financial trends and support data-driven decisions.
 
-## Screenshots  
-![Screenshot 1](Screenshot%202025-09-21%20225322.png)  
-![Screenshot 2](Screenshot%202025-09-21%20225337.png)  
-![Screenshot 3](Screenshot%202025-09-21%20225449.png)  
-![Screenshot 4](Screenshot%202025-09-21%20225504.png)  
+## Download
+You can download and explore the Power BI file here:  
+[Financial Dashboard.pbix](Exploring%20Financial%20Trends%20(2012–2020)%20using%20Power%20BI.pbix)
 
-## Files  
-- **Exploring Financial Trends (2012–2020) using Power BI.pbix** → Power BI project file  
-- **Screenshots** → Dashboard previews  
-
-## Tools Used  
-- Power BI  
-- Microsoft Excel (for data preprocessing)  
+## Screenshots
+![Dashboard Screenshot](Screenshot%202025-09-21%20225322.png)  
+![Dashboard Screenshot](Screenshot%202025-09-21%20225337.png)  
+![Dashboard Screenshot](Screenshot%202025-09-21%20225449.png)  
+![Dashboard Screenshot](Screenshot%202025-09-21%20225504.png)  
